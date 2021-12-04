@@ -1,0 +1,17 @@
+{
+  "name": "chat-node",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Esra Tıraş <esratrs22@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/Esratiras/chat-node",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
